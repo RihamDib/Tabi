@@ -1,0 +1,24 @@
+/* =============
+    Header
+============= */
+header{
+    background-color: $white;
+    color: $black;
+    text-align: left;
+    padding: 770px 0 0;
+
+    h1{
+        font-size: rem-calc(50);
+        font-weight: 800px;
+
+    }
+
+    h3{
+        font-size: rem-calc(15);
+        font-weight: 400px;
+        padding-bottom: 184px;
+    }
+    img{
+       background-image: url("img_tecture.png");
+    }
+}

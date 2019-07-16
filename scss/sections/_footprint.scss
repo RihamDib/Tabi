@@ -1,0 +1,29 @@
+/* =============
+    Responsive
+============= */
+#footprint{
+    h1{
+        font-size: rem-calc(30);
+        font-weight: 300;
+        margin-bottom: 18px;
+    }
+
+    h1+p{
+        font-size: rem-calc(17);
+        line-height: rem-calc(24);
+    }
+
+    article{
+        border-bottom: 2px solid $lightGrey;
+        padding-bottom: 50px;
+        p{
+            color: $black;
+            font-size: rem-calc(16);
+            line-height: rem-calc(31);
+            margin-top: 28px;
+            }
+
+            }
+        }
+    }
+}
